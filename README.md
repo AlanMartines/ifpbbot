@@ -46,16 +46,18 @@ Caso você queira desativar alguma plataforma, como o WhatsApp ou Telegram, voc�
 
 - Defina a variável de ambiente do seu projeto no Dialogflow, credenciais em formato de JSON do seu projeto ([tutorial aqui](https://botflo.com/understanding-dialogflow-service-account-roles-and-their-use-cases/))
 
-TYPE = <br>
-PROJECT_ID = <br>
-PRIVATE_KEY_ID = <br>
-PRIVATE_KEY = <br>
-CLIENT_EMAIL = <br>
-CLIENT_ID = <br>
-AUTH_URI = <br>
-TOKEN_URI = <br>
-AUTH_PROVIDER_X509_CERT_URL = <br>
-CLIENT_X509_CERT_URL = <br>
+```sh
+TYPE =
+PROJECT_ID =
+PRIVATE_KEY_ID =
+PRIVATE_KEY =
+CLIENT_EMAIL =
+CLIENT_ID =
+AUTH_URI =
+TOKEN_URI =
+AUTH_PROVIDER_X509_CERT_URL =
+CLIENT_X509_CERT_URL =
+```
 
 <br>
 
